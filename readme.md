@@ -1,4 +1,4 @@
-I've translated some documents in Mozilla Developer Network(MDN) from English to Chinese,and I want to copy those files to GitHub as a record.<br> 这是我在MDN上翻译的文件的集合。
+I've translated some documents in Mozilla Developer Network(MDN) from English to Chinese,and I want to copy those files to GitHub as a record.<br> 在MDN上翻译的文件的集合。
 
 # Web开发入门
 
